@@ -19,7 +19,7 @@ class NewsController extends Controller
         return view('admin.news.edit');
     }
     
-    public function updata() {
+    public function update() {
         return redirect('admin/news/edit');
     }
 }
