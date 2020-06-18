@@ -12,7 +12,7 @@ class NewsController extends Controller
     }
     
     public function create() {
-        return redirect('admin.news.create');
+        return redirect('admin/news/create');
     }
     
     public function edit() {
@@ -20,6 +20,6 @@ class NewsController extends Controller
     }
     
     public function updata() {
-        return redirect('admin.news.edit');
+        return redirect('admin/news/edit');
     }
 }
