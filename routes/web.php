@@ -35,4 +35,7 @@ Auth::routes();
 // News Front
 Route::get('/', 'NewsController@index');
 
+// Profile Front
+Route::get('/profile', 'ProfileController@index');
+
 Route::get('/home', 'HomeController@index')->name('home');
