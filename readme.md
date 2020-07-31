@@ -1,5 +1,4 @@
-<p align="center">[6e01287eda73fbd3f86d917639a76cd1.gif.zip](https://github.com/Miustys11/test/files/5005988/6e01287eda73fbd3f86d917639a76cd1.gif.zip)
-</p>
+![download](https://user-images.githubusercontent.com/63857015/89018200-70b85c00-d356-11ea-9180-4709701d8316.gif)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
